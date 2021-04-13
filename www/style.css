@@ -1,0 +1,116 @@
+/*NAVBAR STYLE*/
+.nav{
+    font-family: 'Raleway'!important;
+    background-color: rgb(43, 4, 41)!important;
+    color: white !important;
+    box-shadow: 0 0 3px goldenrod, 0 0 15px goldenrod;
+}
+.nav a:hover{
+    text-decoration:none!important;
+    color: rgba(247, 190, 47, 0.993)!important;
+    text-shadow: 2px 2px 2px goldenrod;
+}
+.navHeader{
+    font-size: xx-large!important;
+}
+.navItems{
+    font-family: 'Raleway'!important;
+    font-size: x-large!important;
+    color: black!important;
+}
+/*--------------------------------------------------------------------------*/
+/*ADDING PRODUCT STYLE*/
+.link{
+    margin-top: 100px;
+    margin-bottom: 410px;
+    border-radius: 25px;
+    box-shadow: 0 0 3px #520632, 0 0 15px #51196b;
+}
+.linkRow{
+    font-family: 'Raleway'!important;
+    padding: 30px 40px 30px 40px;
+    background-color: rgb(43, 4, 41)!important;
+    border-radius: 25px;
+}
+/*--------------------------------------------------------------------------*/
+/*LISTING PAGE STYLE*/
+.listingCards{
+    font-family: 'Raleway'!important;
+}
+.listingCard{
+    border: 2px solid rgb(43, 4, 41)!important;
+    /* box-shadow: 0 0 3px #520632, 0 0 15px #51196b; */
+    color: rgb(43, 4, 41)!important;
+    
+}
+.listingCard:hover{
+    border: 2px solid rgb(43, 4, 41)!important;
+    background-color: rgb(43, 4, 41)!important;
+    box-shadow: 0 0 3px #520632, 0 0 15px #51196b;  
+    color: white!important;
+}
+.listingCol a{
+    text-decoration: none!important;
+}
+.listingCol a img{
+    width: 268.5px;
+    height: 268.5px;
+}
+.card-title {
+    min-height: 80px;
+}
+/*--------------------------------------------------------------------------*/
+/*PRODUCT PAGE*/
+.imgCol{
+    overflow: hidden;
+    border: 1px solid rgb(43, 4, 41);
+    background-color: rgb(43, 4, 41); 
+    box-shadow: 0 0 3px #520632, 0 0 15px #51196b;
+}
+.productName{
+    font-family: 'Raleway'!important;
+    font-size: 40px;
+}
+.detailCol{
+    border: 1px solid rgb(43, 4, 41);
+    box-shadow: 0 0 3px #520632, 0 0 15px #51196b!important;
+}
+.detailCol .price{
+    font-size: 4rem;
+    font-weight: lighter;
+}
+/*--------------------------------------------------------------------------*/
+/*GENERAL PAGE DECORATIONS*/
+.pagebackground{
+    background-color: white!important; /*baby powder*/
+}
+
+.textcolor{
+    color: #F9FAF7!important; /*dark purple*/
+}
+.bgcolor{
+    background-color: #c490d1!important; /*wisteria*/
+    background-color: rgb(43, 4, 41)!important;
+}
+.btn{
+    background-color: #F9FAF7;
+    color: rgb(43, 4, 41)!important;
+    border-radius: 30px;
+    min-width: 90px!important;
+}
+.btn:hover{
+    background-color: rgb(43, 4, 41)!important;
+    border: 1px solid goldenrod!important;
+    color: goldenrod!important;
+    box-shadow: 0 0 3px goldenrod, 0 0 15px goldenrod;
+    text-shadow:0 0 3px goldenrod, 0 0 3px goldenrod;
+}
+/*--------------------------------------------------------------------------*/
+/*FOOTER STYLE*/
+
+.copyright{
+    font-family: 'Raleway'!important;
+    background-color: rgb(43, 4, 41)!important;
+    color: white;
+    box-shadow: 0 0 3px #520632, 0 0 15px #51196b;
+}
